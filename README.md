@@ -59,6 +59,8 @@ python snake_game.py
 ![Screenshot 2025-02-02 003638](https://github.com/user-attachments/assets/cc5928f8-a4f1-40a1-9c3d-d1af0eae7c5c)
 
 
+---
+
 
 ## 🛠️ Future Enhancements
 - 🏆 **More Power-ups** (e.g., invincibility, slow motion, reverse controls)
@@ -66,6 +68,7 @@ python snake_game.py
 - 🎯 **New Game Modes** - Timed mode, endless mode, and levels
 - 📈 **Level System** - Increase difficulty as score grows
 
+---
 
 ## 🤝 Contributing
 Pull requests are welcome! If you’d like to contribute, follow these steps:
@@ -76,9 +79,12 @@ Pull requests are welcome! If you’d like to contribute, follow these steps:
 5. Open a pull request.
 
 
+---
+
 ## 📝 License
 This project is open-source and available under the **MIT License**.
 
+---
 
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out!
@@ -86,5 +92,6 @@ For any questions or suggestions, feel free to reach out!
 - Email: vishwanathnitinraj@gmail.com
 
 
-Enjoy the game! 🎉🐍
+---
 
+Enjoy the game! 🎉🐍
