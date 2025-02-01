@@ -56,7 +56,8 @@ python snake_game.py
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/5b67b000-d4fb-4b39-af1d-2680ffa81836)
 ![Screenshot 2025-02-02 003734](https://github.com/user-attachments/assets/8388ebfd-94c6-42a3-8455-0de0fe5e69ad)
-![Screenshot 2025-02-02 003734](https://github.com/user-attachments/assets/e2b4aff5-c836-4757-8015-e342fbbd07fd)
+![Screenshot 2025-02-02 003638](https://github.com/user-attachments/assets/cc5928f8-a4f1-40a1-9c3d-d1af0eae7c5c)
+
 
 
 ## 🛠️ Future Enhancements
